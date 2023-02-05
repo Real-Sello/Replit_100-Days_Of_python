@@ -12,10 +12,11 @@
   - #### Print function and Replit Workspace
     - On the first day, I learned about the Replit IDE and workspace walkaround, how to use the console and how to publish repls to social media, how to link replit accout to github and export files to github repository.
     - Also learned about the `print` statement and how to print output messages to the screen, common coding errors related to `print` function
-
+---
 ## Author
 
 - Sello Moneatse 
   - Github  [Real-Sello](https://github.com/Real-Sello)
   - Replit  [@Real-Sello](https://replit.com/@Real-Sello)
   - Twitter [@__Sello](https://twitter.com/__Sello)
+---
