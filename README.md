@@ -5,8 +5,11 @@
   The goal is to improve my Python programming skills and build projects.
   The challenge typically involves daily coding, learning new concepts, 
   sharing progress and project updates on all my social media platform pages.
-  ```
-## Day :one: - Day :one::zero::zero:
+```
+<details open>
+<summary>
+
+## Day :one: - Day :one::zero::zero:</summary>
 *This section updates daily till I reach 100 days*
  - ### Day :one:/:one::zero::zero: :
     - #### Print function and Replit Workspace
@@ -24,7 +27,7 @@ ___
       - How to concatenate variables and string literals and the common errors
 ___
 
-
+</details>
 
 ___
 ## Author
