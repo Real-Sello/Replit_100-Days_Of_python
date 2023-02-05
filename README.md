@@ -9,7 +9,7 @@
 ## Day 1 - Day 100
 *This section updates daily till I reach 100 days*
 - ### Day 1/100
-  - #### Print and Replit Workspace
+  - #### Print function and Replit Workspace
     - On the first day, I learned about the Replit IDE and workspace walkaround, how to use the console and how to publish repls to social media, how to link replit accout to github and export files to github repository.
     - Also learned about the `print` statement and how to print output messages to the screen, common coding errors related to `print` function
 
