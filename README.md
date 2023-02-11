@@ -1,4 +1,4 @@
-# Replit_100-Days_Of_python with Sello
+# Replit_100-Days_Of_python-Series with Sello
 ## 100 Days Of Python Coding
   ```"100 Days of Python Coding" is a coding challenge where I aim to code in the
   Python programming language for 100 consecutive days.
