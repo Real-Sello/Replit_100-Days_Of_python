@@ -57,7 +57,7 @@ ___
       - On the ninth day, I learned about casting. How a computer sees typed input. Also common errors related to casting.
 
 ___
- - ### Day :10:/:one::zero::zero: :
+ - ### Day :one::zero:/:one::zero::zero: :
     - #### Mathematical Calculations
       - On the tenth day I learned about using all learned funtion so far to create a simple calculator. Also learned how to use math functions in a Python program.
 
