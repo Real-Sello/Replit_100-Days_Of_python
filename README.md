@@ -31,8 +31,7 @@ ___
 
 ___
 ## Author
-
-- Sello Moneatse 
+### [*Sello Prince Moneatse*](linkedin.com/in/sello-moneatse-2bb4aa130)
 <a href="https://github.com/Real-Sello" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="30" />
   </a>
@@ -42,4 +41,3 @@ ___
   <a href="https://twitter.com/__Sello" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="__Sello" height="30" width="30"/>
   </a>
-___
