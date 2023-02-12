@@ -26,6 +26,42 @@ ___
       - On the third day, I learned how to concatenate strings and stored variable.
       - How to concatenate variables and string literals and the common errors
 ___
+ - ### Day :four:/:one::zero::zero: :
+    - #### Adding Color To Output & Using input and output functions
+      - On the fourth day, I learned how add color to the output.
+      - I learned how to write my own story based on user input.
+
+___
+ - ### Day :five:/:one::zero::zero: :
+    - #### If Statements
+      - On the fifth day, I learned how to use `if` statement and common errors related to it.
+
+___
+ - ### Day :six:/:one::zero::zero: :
+    - #### Elif Statements
+      - On the sixth day, I learned how to use `elif` statement and common errors related to it.
+
+___
+ - ### Day :seven:/:one::zero::zero: :
+    - #### Nesting Statements
+      - On the seventh day, I learned about `nesting` statement and common errors related to it.
+
+___
+ - ### Day :eight:/:one::zero::zero: :
+    - #### `and : or`, If statements, Elif statements and Nesting statements.
+      - On the eighth day, I learned how to use a combination of if statements and Elif statements in order to create nested statements and an introduction to `and` & `or`
+
+___
+ - ### Day :nine:/:one::zero::zero: :
+    - #### Casting & Mathematical Operators
+      - On the ninth day, I learned about casting. How a computer sees typed input. Also common errors related to casting.
+
+___
+ - ### Day :10:/:one::zero::zero: :
+    - #### Mathematical Calculations
+      - On the tenth day I learned about using all learned funtion so far to create a simple calculator. Also learned how to use math functions in a Python program.
+
+___
 
 </details>
 
