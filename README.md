@@ -37,7 +37,7 @@ ___
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="30" />
   </a>
   -  <a href="https://replit.com/@Real-Sello" target="blank">
-    <img align="center" src="" alt="__Sello" height="30" width="30"/>
+    <img align="center" src="https://github.com/Real-Sello/Replit_100-Days_Of_python-Series/blob/main/replit.png" alt="__Sello" height="30" width="30"/>
   </a>
   -  <a href="https://twitter.com/__Sello" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="__Sello" height="30" width="30"/>
